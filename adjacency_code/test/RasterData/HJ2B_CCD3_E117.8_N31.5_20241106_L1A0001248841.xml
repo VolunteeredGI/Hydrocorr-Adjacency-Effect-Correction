@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProductMetaData>
+    <SatelliteID>HJ2B</SatelliteID>
+    <ReceiveStationID>MYC</ReceiveStationID>
+    <SensorID>CCD3</SensorID>
+    <ReceiveTime>2024-11-06 03:26:25.44</ReceiveTime>
+    <OrbitID>22146</OrbitID>
+    <OrbitType>GPS</OrbitType>
+    <AttType />
+    <StripID>103284</StripID>
+    <ProduceType>STANDARD</ProduceType>
+    <SceneID>1227227</SceneID>
+    <DDSFlag>TRUE</DDSFlag>
+    <ProductID>1248841</ProductID>
+    <ProductLevel>LEVEL1A</ProductLevel>
+    <ProductFormat>GEOTIFF</ProductFormat>
+    <ProduceTime>2024-11-06 14:12:40</ProduceTime>
+    <Bands>5</Bands>
+    <ScenePath>600</ScenePath>
+    <SceneRow>78</SceneRow>
+    <SatPath>598</SatPath>
+    <SatRow>78</SatRow>
+    <SceneCount>1</SceneCount>
+    <SceneShift />
+    <StartTime>2024-11-06 11:26:11</StartTime>
+    <EndTime>2024-11-06 11:26:38</EndTime>
+    <CenterTime />
+    <StartLine>128034</StartLine>
+    <EndLine>140033</EndLine>
+    <ImageGSD />
+    <WidthInPixels>11999</WidthInPixels>
+    <HeightInPixels>11993</HeightInPixels>
+    <WidthInMeters>11999</WidthInMeters>
+    <HeightInMeters>11993</HeightInMeters>
+    <RegionName />
+    <CloudPercent>0</CloudPercent>
+    <DataSize>1372</DataSize>
+    <RollViewingAngle>0.000000</RollViewingAngle>
+    <PitchViewingAngle>0.000000</PitchViewingAngle>
+    <PitchSatelliteAngle>0.007942</PitchSatelliteAngle>
+    <RollSatelliteAngle>-0.006164</RollSatelliteAngle>
+    <YawSatelliteAngle>3.238005</YawSatelliteAngle>
+    <SolarAzimuth>171.607124</SolarAzimuth>
+    <SolarZenith>47.995444</SolarZenith>
+    <SatelliteAzimuth>103.052172</SatelliteAzimuth>
+    <SatelliteZenith>8.786073</SatelliteZenith>
+    <GainMode>B9,A7,AE,12,53</GainMode>
+    <IntegrationTime>2.257965</IntegrationTime>
+    <IntegrationLevel>0</IntegrationLevel>
+    <MapProjection />
+    <EarthEllipsoid />
+    <ZoneNo />
+    <ResamplingKernel />
+    <HeightMode />
+    <EphemerisData />
+    <AttitudeData />
+    <RadiometricMethod />
+    <MtfCorrection />
+    <Denoise />
+    <RayleighCorrection />
+    <UsedGCPNo>0</UsedGCPNo>
+    <CenterLatitude>31.504915</CenterLatitude>
+    <CenterLongitude>117.807203</CenterLongitude>
+    <TopLeftLatitude>32.515298</TopLeftLatitude>
+    <TopLeftLongitude>116.975028</TopLeftLongitude>
+    <TopRightLatitude>32.147994</TopRightLatitude>
+    <TopRightLongitude>118.999704</TopRightLongitude>
+    <BottomRightLatitude>30.496332</BottomRightLatitude>
+    <BottomRightLongitude>118.571237</BottomRightLongitude>
+    <BottomLeftLatitude>30.861473</BottomLeftLatitude>
+    <BottomLeftLongitude>116.582153</BottomLeftLongitude>
+    <TopLeftMapX />
+    <TopLeftMapY />
+    <TopRightMapX />
+    <TopRightMapY />
+    <BottomRightMapX />
+    <BottomRightMapY />
+    <BottomLeftMapX />
+    <BottomLeftMapY />
+    <DataFile>/PGS/WORKDIR//PRODUCTS/HJ2B/20241106/CCD3/L1A/HJ2B_CCD3_E117.8_N31.5_20241106_L1A0001248841/HJ2B_CCD3_E117.8_N31.5_20241106_L1A0001248841.tar.gz</DataFile>
+    <BrowseFile>/PGS/WORKDIR//PRODUCTS/HJ2B/20241106/CCD3/L1A/HJ2B_CCD3_E117.8_N31.5_20241106_L1A0001248841/HJ2B_CCD3_E117.8_N31.5_20241106_L1A0001248841.jpg</BrowseFile>
+    <ThumbFile>/PGS/WORKDIR//PRODUCTS/HJ2B/20241106/CCD3/L1A/HJ2B_CCD3_E117.8_N31.5_20241106_L1A0001248841/HJ2B_CCD3_E117.8_N31.5_20241106_L1A0001248841_thumb.jpg</ThumbFile>
+</ProductMetaData>
